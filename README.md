@@ -38,3 +38,7 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     Out-Printer
     ```
 - PipeLine1
+- Sortieren 
+- Messen
+- Selektieren
+- Konvertieren / Importieren / Exportieren
