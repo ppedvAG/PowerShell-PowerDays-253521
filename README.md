@@ -45,3 +45,7 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Filtern
 - Aufzählen
 - Schleifen
+- Verzweigung
+- Pipeline2
+- WMI/CIM
+- PowerShell Remoting
