@@ -53,3 +53,8 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 [Kursblatt Teil2](https://ppedv.de/schulung/kurse/PowerShellCorecmdletScriptlernenFortgeschrittenWorkflowProgrammierungSeminarTraining.aspx)
 ### Agenda:
 - Git
+- Scripting
+    - Parameter
+    - Parameter Validierung
+    - Comment Based Help
+    - 
