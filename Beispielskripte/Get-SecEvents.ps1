@@ -39,9 +39,11 @@ param(
 [ValidateScript({Test-NetConnection -ComputerName $PSItem -CommonTCPPort WINRM -InformationLevel Quiet})]
 [string]$Computername = "localhost"
 )
-$EventId = 3
+# Die Validates sind Eigenschaften der Variablen und werden auch im Skript weiter geprüft
+#$EventId = 3
 Write-Verbose -Message "Zusätzliche optionale Ausgaben"
 Write-Verbose -Message "Es wurde die EventId $EventId übergeben"
-Write-Verbose -Message "Vor Abfrage"
+Write-Debug -Message "Vor der eigentlichen Abfrage"
 Get-WinEvent -LogName Security -ComputerName $Computername | Where-Object -FilterScript {$PSItem.ID -eq $EventId} | Select-Object -First $Newest
 Write-Verbose -Message "Nach Abfrage"
+Write-Debug -Message "Nach Abfrage"
