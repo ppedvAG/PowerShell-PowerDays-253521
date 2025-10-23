@@ -2,7 +2,7 @@
 
 KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der ppedv AG
 
-[Kursblatt](https://ppedv.de/schulung/kurse/PowershellAdministrationWindowslWMIActiveDirectoryIIS7cmdletspipelinesPs1Skripte.aspx)
+[Kursblatt Teil1](https://ppedv.de/schulung/kurse/PowershellAdministrationWindowslWMIActiveDirectoryIIS7cmdletspipelinesPs1Skripte.aspx)
 ### Agenda:
 - Einführung
     - PowerShell Versionen
@@ -49,3 +49,7 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
 - Pipeline2
 - WMI/CIM
 - PowerShell Remoting
+
+[Kursblatt Teil2](https://ppedv.de/schulung/kurse/PowerShellCorecmdletScriptlernenFortgeschrittenWorkflowProgrammierungSeminarTraining.aspx)
+### Agenda:
+- Git
