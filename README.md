@@ -64,3 +64,5 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     - Fehlerbehandlung
     - PowerShell Provider
     - SkriptSignierung
+    - Pipelinefähigkeit
+    - Begin Process End
