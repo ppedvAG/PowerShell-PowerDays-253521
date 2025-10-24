@@ -57,4 +57,10 @@ KursRepository zu Kurs PowerShell - Grundkurs automatisierte Administration der 
     - Parameter
     - Parameter Validierung
     - Comment Based Help
-    - 
+    - Functions
+    - Script Modules
+        - Modulmanifest
+    - Debugging
+    - Fehlerbehandlung
+    - PowerShell Provider
+    - SkriptSignierung
